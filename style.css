@@ -23,7 +23,7 @@ nav {
   
 }
 
-ul {
+.nav-list {
   list-style-type: none;
   padding: 10;
   margin: 10;
@@ -31,7 +31,7 @@ ul {
   gap: 10px;
 }
 
-li {
+.nav-item {
   display: inline;
 }
 
